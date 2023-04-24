@@ -1,0 +1,35 @@
+@prefix : <http://www.semanticweb.org/model/electric/vehciles#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/model/electric/vehciles> .
+###  http://www.semanticweb.org/model/electric/vehciles#Vechicle_KNDCD3LD5J
+:Vechicle_KNDCD3LD5J rdf:type owl:NamedIndividual ,
+                              :Vehicle ;
+                     :hasTechnicalSpecification :Vechicle_KNDCD3LD5J_TechnicalSpecification .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#Vechicle_KNDCD3LD5J_TechnicalSpecification
+:Vechicle_KNDCD3LD5J_TechnicalSpecification rdf:type owl:NamedIndividual ,
+                                                     :TechnicalSpecification ;
+                                            :bodyAssembleLocation "Hermosillo Stamping and Assembly Plant, Mexico"^^xsd:string ;
+                                            :bodyType "Steel body, aluminum hood"^^xsd:string ;
+                                            :brakesType "Four-wheel disc with anti-lock brake system, brake assist and electronic brake force distribution"^^xsd:string ;
+                                            :engineConfiguration "2.5-liter i-VCT I-4"^^xsd:string ;
+                                            :fuelCapacity "16.5"^^xsd:string ;
+                                            :horsePower "175 @ 6,000 rpm"^^xsd:string ;
+                                            :oilCapacity "5.7 quarts Motorcraft SAE 5W-20 premium synthetic blend; intelligent oil-life monitor"^^xsd:string .
+
+###  http://www.semanticweb.org/model/electric/vehciles#FunctionDescriptor_28c4d042_371f_48d7_aa8a_e756b7002aac
+:FunctionDescriptor_28c4d042_371f_48d7_aa8a_e756b7002aac rdf:type owl:NamedIndividual ,
+                                                                  :TechnicalSpecification ;
+                                                         :horsePower "efoc"^^xsd:string ;
+                                                         rdfs:label "New Technical Specification"@en .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#Vechicle_WAUUPBFF3G
+:Vechicle_WAUUPBFF3G rdf:type owl:NamedIndividual ,
+                              :Vehicle ;
+                     :hasTechnicalSpecification :FunctionDescriptor_28c4d042_371f_48d7_aa8a_e756b7002aac .

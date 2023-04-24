@@ -1,0 +1,163 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix rml: <http://semweb.mmlab.be/ns/rml#>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@prefix vehciles: <http://www.semanticweb.org/model/electric/vehciles#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix fno: <http://w3id.org/function/ontology#> . 
+@prefix fnml: <http://semweb.mmlab.be/ns/fnml#> . 
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> . 
+
+<#VehicleMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "demo-data/customCSV.csv" ;
+    rml:referenceFormulation ql:CSV 
+  ];
+  rr:subjectMap [
+    rr:template "http://www.semanticweb.org/model/electric/vehciles#Vechicle_{VIN (1-10)}";
+    rr:class vehciles:Vehicle
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:modelYear;
+    rr:objectMap [
+      rml:reference "Model Year";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:model;
+    rr:objectMap [
+      rml:reference "Model";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:hasMake;
+    rr:objectMap [
+      rr:template "http://www.semanticweb.org/model/electric/vehciles#Company_{Make}"
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:type;
+    rr:objectMap [
+      rml:reference "Electric Vehicle Type";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:Clean_Alternative_Fuel_Vehicle;
+    rr:objectMap [
+      rml:reference "Clean Alternative Fuel Vehicle (CAFV) Eligibility";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:electricRange;
+    rr:objectMap [
+      rml:reference "Electric Range";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:Base_MSRP;
+    rr:objectMap [
+      rml:reference "Base MSRP";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:Legislative_District;
+    rr:objectMap [
+      rml:reference "Legislative District";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:DOL_Vehicle_ID;
+    rr:objectMap [
+      rml:reference "DOL Vehicle ID";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:Vehicle_Location;
+    rr:objectMap [
+      rml:reference "Vehicle Location";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:Electric_Utility;
+    rr:objectMap [
+      rml:reference "Electric Utility";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:2020_Census_Tract;
+    rr:objectMap [
+      rml:reference "2020 Census Tract";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:VIN;
+    rr:objectMap [
+      rml:reference "VIN (1-10)";
+      rr:datatype xsd:string
+      ]
+  ];
+   rr:predicateObjectMap [
+    rr:predicate vehciles:hasRegister;
+    rr:objectMap [
+      rr:template "http://www.semanticweb.org/model/electric/vehciles#Address_{City}"
+      ]
+  ].
+
+  <#CompanyMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "demo-data/customCSV.csv" ;
+    rml:referenceFormulation ql:CSV 
+  ];
+  rr:subjectMap [
+    rr:template "http://www.semanticweb.org/model/electric/vehciles#Company_{Make}";
+    rr:class vehciles:Company
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:name;
+    rr:objectMap [
+      rml:reference "Make";
+      rr:datatype xsd:string
+      ]
+  ].
+<#VehicleRegisterAddressMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "demo-data/customCSV.csv" ;
+    rml:referenceFormulation ql:CSV 
+  ];
+  rr:subjectMap [
+    rr:template "http://www.semanticweb.org/model/electric/vehciles#Address_{City}";
+    rr:class vehciles:Address
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:city;
+    rr:objectMap [
+      rml:reference "City";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:state;
+    rr:objectMap [
+      rml:reference "State";
+      rr:datatype xsd:string
+      ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate vehciles:postalCode;
+    rr:objectMap [
+      rml:reference "Postal Code";
+      rr:datatype xsd:string
+      ]
+  ].

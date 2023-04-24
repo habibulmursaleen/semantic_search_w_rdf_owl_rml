@@ -1,0 +1,506 @@
+<http://www.semanticweb.org/model/electric/vehciles#Address_Anacortes> <http://www.semanticweb.org/model/electric/vehciles#city> "Anacortes" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Anacortes> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98221" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Anacortes> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Anacortes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> <http://www.semanticweb.org/model/electric/vehciles#city> "Bothell" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98012" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98021" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bremerton> <http://www.semanticweb.org/model/electric/vehciles#city> "Bremerton" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bremerton> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98337" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bremerton> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98383" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bremerton> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Bremerton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Derby> <http://www.semanticweb.org/model/electric/vehciles#city> "Derby" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Derby> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "67037" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Derby> <http://www.semanticweb.org/model/electric/vehciles#state> "KS" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Derby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Edmonds> <http://www.semanticweb.org/model/electric/vehciles#city> "Edmonds" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Edmonds> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98026" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Edmonds> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Edmonds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Everett> <http://www.semanticweb.org/model/electric/vehciles#city> "Everett" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Everett> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98204" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Everett> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Everett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Kent> <http://www.semanticweb.org/model/electric/vehciles#city> "Kent" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Kent> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98031" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Kent> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Kent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Marysville> <http://www.semanticweb.org/model/electric/vehciles#city> "Marysville" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Marysville> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98271" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Marysville> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Marysville> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Mill%20Creek> <http://www.semanticweb.org/model/electric/vehciles#city> "Mill Creek" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Mill%20Creek> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98012" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Mill%20Creek> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Mill%20Creek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Monroe> <http://www.semanticweb.org/model/electric/vehciles#city> "Monroe" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Monroe> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98272" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Monroe> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Monroe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Oak%20Harbor> <http://www.semanticweb.org/model/electric/vehciles#city> "Oak Harbor" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Oak%20Harbor> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98277" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Oak%20Harbor> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Oak%20Harbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Oceanside> <http://www.semanticweb.org/model/electric/vehciles#city> "Oceanside" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Oceanside> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "92051" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Oceanside> <http://www.semanticweb.org/model/electric/vehciles#state> "CA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Oceanside> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olalla> <http://www.semanticweb.org/model/electric/vehciles#city> "Olalla" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olalla> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98359" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olalla> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olalla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olympia> <http://www.semanticweb.org/model/electric/vehciles#city> "Olympia" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olympia> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98501" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olympia> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98513" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olympia> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98516" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olympia> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Olympia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Pullman> <http://www.semanticweb.org/model/electric/vehciles#city> "Pullman" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Pullman> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "99163" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Pullman> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Pullman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Tumwater> <http://www.semanticweb.org/model/electric/vehciles#city> "Tumwater" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Tumwater> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98501" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Tumwater> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Tumwater> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Walla%20Walla> <http://www.semanticweb.org/model/electric/vehciles#city> "Walla Walla" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Walla%20Walla> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "99362" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Walla%20Walla> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Walla%20Walla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Woodway> <http://www.semanticweb.org/model/electric/vehciles#city> "Woodway" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Woodway> <http://www.semanticweb.org/model/electric/vehciles#postalCode> "98020" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Woodway> <http://www.semanticweb.org/model/electric/vehciles#state> "WA" .
+<http://www.semanticweb.org/model/electric/vehciles#Address_Woodway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Address> .
+<http://www.semanticweb.org/model/electric/vehciles#Company_AUDI> <http://www.semanticweb.org/model/electric/vehciles#name> "AUDI" .
+<http://www.semanticweb.org/model/electric/vehciles#Company_AUDI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Company> .
+<http://www.semanticweb.org/model/electric/vehciles#Company_BMW> <http://www.semanticweb.org/model/electric/vehciles#name> "BMW" .
+<http://www.semanticweb.org/model/electric/vehciles#Company_BMW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Company> .
+<http://www.semanticweb.org/model/electric/vehciles#Company_CHEVROLET> <http://www.semanticweb.org/model/electric/vehciles#name> "CHEVROLET" .
+<http://www.semanticweb.org/model/electric/vehciles#Company_CHEVROLET> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Company> .
+<http://www.semanticweb.org/model/electric/vehciles#Company_FORD> <http://www.semanticweb.org/model/electric/vehciles#name> "FORD" .
+<http://www.semanticweb.org/model/electric/vehciles#Company_FORD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Company> .
+<http://www.semanticweb.org/model/electric/vehciles#Company_KIA> <http://www.semanticweb.org/model/electric/vehciles#name> "KIA" .
+<http://www.semanticweb.org/model/electric/vehciles#Company_KIA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Company> .
+<http://www.semanticweb.org/model/electric/vehciles#Company_NISSAN> <http://www.semanticweb.org/model/electric/vehciles#name> "NISSAN" .
+<http://www.semanticweb.org/model/electric/vehciles#Company_NISSAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Company> .
+<http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> <http://www.semanticweb.org/model/electric/vehciles#name> "TESLA" .
+<http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Company> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "848" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "32250" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "350084948" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53035092803" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "26" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-5n5i~p9zc_tker" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.54729 47.42602)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "33" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#counties> "6" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "93" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_KIA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Olalla> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#model> "SOUL EV" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2017" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5n5i~p9zc_tker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Not eligible due to low battery range" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "POINT (-97.27013 37.54531)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "138214331" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-5r58~kb8y.789r" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "20173009801" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "21" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_FORD> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Derby> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#model> "FUSION" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2017" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.semanticweb.org/model/electric/vehciles#type> "Plug-in Hybrid Electric Vehicle (PHEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-5r58~kb8y.789r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3009" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "186185814" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53033029306" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "11" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-79mr-wz6n~q33u" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.17743 47.41185)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "46" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#counties> "9" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "215" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Kent> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2018" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-79mr-wz6n~q33u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "3129059" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061052805" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "38" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-84ix~3wif_u9ju" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.19388 48.15353)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "40" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#counties> "2" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "75" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_NISSAN> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Marysville> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#model> "LEAF" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2013" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-84ix~3wif_u9ju> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3212" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "258609291" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53057940302" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "10" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-8gs7-25qw-ki3w" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.61214 48.51748)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "43" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#counties> "2" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "215" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Anacortes> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2018" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-8gs7-25qw-ki3w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "2743" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "150312991" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53071920702" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "16" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-9qmp.7c6z.3ncd" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-118.34261 46.07068)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "23" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#counties> "5" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "259" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_CHEVROLET> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Walla%20Walla> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#model> "BOLT EV" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2020" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-9qmp.7c6z.3ncd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "475248315" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061050800" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "32" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-abd5~finn.nzkg" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.31768 47.87166)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "7" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#counties> "2" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "220" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Edmonds> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2019" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-abd5~finn.nzkg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "848" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Not eligible due to low battery range" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "314301186" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53035091205" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "23" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-gb7d~grh8-a6bh" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.69275 47.65171)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "29" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#counties> "6" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "29" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_KIA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Bremerton> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#model> "OPTIMA" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2017" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.semanticweb.org/model/electric/vehciles#type> "Plug-in Hybrid Electric Vehicle (PHEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-gb7d~grh8-a6bh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "2742" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "152584484" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53067012330" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "2" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-hjc4.gfbs.en6u" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.75379 47.06316)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "2" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#counties> "10" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "239" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_KIA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Olympia> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#model> "NIRO" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2020" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hjc4.gfbs.en6u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "6094910" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061052208" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "39" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-hncb~2ani.e6ff" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-121.98087 47.8526)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "41" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#counties> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "266" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Monroe> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2020" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-hncb~2ani.e6ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3007" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "234850367" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53029970300" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "10" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-isc5~dgtb~rt8i" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.64682 48.29077)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "16" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#counties> "2" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "75" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_NISSAN> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Oak%20Harbor> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#model> "LEAF" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2013" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-isc5~dgtb~rt8i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "2742" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "201185253" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53067011720" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "35" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-j8qq~7apd_bc2h" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.89166 47.03956)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "28" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#counties> "10" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "151" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_NISSAN> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Tumwater> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#model> "LEAF" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2018" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-j8qq~7apd_bc2h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Not eligible due to low battery range" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "302447554" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061051918" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-jh8j-8ukv-xezh" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.18384 47.8031)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#counties> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "19" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_FORD> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#model> "C-MAX" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2013" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.semanticweb.org/model/electric/vehciles#type> "Plug-in Hybrid Electric Vehicle (PHEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jh8j-8ukv-xezh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "106295451" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061051927" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "21" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-jt7i-mn5g_xdxy" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.21061 47.83448)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#counties> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "322" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2020" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-jt7i-mn5g_xdxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "2742" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "329238430" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53067012320" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "2" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-n3ik-3bdy~9hij" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.80277 46.99409)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "28" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#counties> "10" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "220" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Olympia> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2019" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-n3ik-3bdy~9hij> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "2745" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Eligibility unknown as battery range has not been researched" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "193579760" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53075000201" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "9" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-p6hn_jyi4~4sds" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-117.18147 46.73015)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "13" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#counties> "5" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Pullman> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL Y" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2022" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-p6hn_jyi4~4sds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "152471728" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061041905" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "21" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-qnct~snmi~bfh6" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.25527 47.90456)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "7" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#counties> "2" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "239" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_KIA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Everett> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#model> "NIRO" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2020" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-qnct~snmi~bfh6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "274983740" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061050600" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "32" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-s584_48j7-pes9" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.37689 47.81116)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "7" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#counties> "7" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "150" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_NISSAN> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Woodway> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#model> "LEAF" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2019" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-s584_48j7-pes9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Not eligible due to low battery range" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "161824953" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061052107" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-sdx8-r2db.e3n4" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.21061 47.83448)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#counties> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "16" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_AUDI> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#model> "A3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2016" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.semanticweb.org/model/electric/vehciles#type> "Plug-in Hybrid Electric Vehicle (PHEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sdx8-r2db.e3n4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "199402794" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061051937" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-sqi7_77iu-dm5r" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.18384 47.8031)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#counties> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "208" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL S" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2015" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-sqi7_77iu-dm5r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "110771972" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061051937" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-un7y_4v74~he2e" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.18384 47.8031)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#counties> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "266" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Bothell> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2020" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-un7y_4v74~he2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "848" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "166525635" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53035080500" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "26" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-wiar-siae_sed9" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.62749 47.565)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "33" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#counties> "6" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "126" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_BMW> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Bremerton> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#model> "I3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2019" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.semanticweb.org/model/electric/vehciles#type> "Plug-in Hybrid Electric Vehicle (PHEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-wiar-siae_sed9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "3213" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "226080305" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53061052006" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "44" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-xcw8-id2a-k8v4" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.21061 47.83448)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#counties> "1" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "215" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Mill%20Creek> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2018" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-xcw8-id2a-k8v4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> "2742" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "477769939" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#Electric_Utility> "53067010700" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "22" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-ynhd~9n9n_nrh6" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location> "POINT (-122.89166 47.03956)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts> "28" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#counties> "10" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "220" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Olympia> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2019" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-ynhd~9n9n_nrh6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#Base_MSRP> "0" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle> "Clean Alternative Fuel Vehicle Eligible" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID> "06073018509" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#Legislative_District> "153998050" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#VIN> "row-zt4k~iszy.uhv6" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#electricRange> "215" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#hasMake> <http://www.semanticweb.org/model/electric/vehciles#Company_TESLA> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#hasRegister> <http://www.semanticweb.org/model/electric/vehciles#Address_Oceanside> .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#model> "MODEL 3" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#modelYear> "2018" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.semanticweb.org/model/electric/vehciles#type> "Battery Electric Vehicle (BEV)" .
+<http://www.semanticweb.org/model/electric/vehciles#Vechicle_row-zt4k~iszy.uhv6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/model/electric/vehciles#Vehicle> .

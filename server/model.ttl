@@ -1,0 +1,341 @@
+@prefix : <http://www.semanticweb.org/model/electric/vehciles#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/model/electric/vehciles#> .
+
+<http://www.semanticweb.org/model/electric/vehciles> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/model/electric/vehciles#hasMake
+:hasMake rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#hasRegister
+:hasRegister rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#hasTechnicalSpecification
+:hasTechnicalSpecification rdf:type owl:ObjectProperty ;
+                           rdfs:label "has Technical Specification"@en .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/model/electric/vehciles#Base_MSRP
+:Base_MSRP rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#Clean_Alternative_Fuel_Vehicle
+:Clean_Alternative_Fuel_Vehicle rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#DOL_Vehicle_ID
+:DOL_Vehicle_ID rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#Electric_Utility
+:Electric_Utility rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#Legislative_District
+:Legislative_District rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#VIN
+:VIN rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#Vehicle_Location
+:Vehicle_Location rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#WAOFM_GIS_Legislative_District_Boundary
+:WAOFM_GIS_Legislative_District_Boundary rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#bodyAssembleLocation
+:bodyAssembleLocation rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#bodyType
+:bodyType rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#brakesType
+:brakesType rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#city
+:city rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#congressionalDistricts
+:congressionalDistricts rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#counties
+:counties rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#country
+:country rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#electricRange
+:electricRange rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#engineAssembleLocation
+:engineAssembleLocation rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#engineConfiguration
+:engineConfiguration rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#fuelCapacity
+:fuelCapacity rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#fuelInjection
+:fuelInjection rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#horsePower
+:horsePower rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#model
+:model rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#modelYear
+:modelYear rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#name
+:name rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#oilCapacity
+:oilCapacity rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#postalCode
+:postalCode rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#state
+:state rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#transmissionType
+:transmissionType rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#type
+:type rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract
+<http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/model/electric/vehciles#Address
+:Address rdf:type owl:Class ;
+         rdfs:subClassOf [ rdf:type owl:Restriction ;
+                           owl:onProperty :city ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :country ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :postalCode ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :state ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ;
+         rdfs:label "Address"@en .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#Company
+:Company rdf:type owl:Class ;
+         rdfs:subClassOf [ rdf:type owl:Restriction ;
+                           owl:onProperty :name ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ;
+         rdfs:label "Company"@en .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#TechnicalSpecification
+:TechnicalSpecification rdf:type owl:Class ;
+                        rdfs:subClassOf [ rdf:type owl:Restriction ;
+                                          owl:onProperty :bodyAssembleLocation ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ,
+                                        [ rdf:type owl:Restriction ;
+                                          owl:onProperty :bodyType ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ,
+                                        [ rdf:type owl:Restriction ;
+                                          owl:onProperty :brakesType ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ,
+                                        [ rdf:type owl:Restriction ;
+                                          owl:onProperty :engineAssembleLocation ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ,
+                                        [ rdf:type owl:Restriction ;
+                                          owl:onProperty :engineConfiguration ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ,
+                                        [ rdf:type owl:Restriction ;
+                                          owl:onProperty :fuelCapacity ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ,
+                                        [ rdf:type owl:Restriction ;
+                                          owl:onProperty :fuelInjection ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ,
+                                        [ rdf:type owl:Restriction ;
+                                          owl:onProperty :horsePower ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ,
+                                        [ rdf:type owl:Restriction ;
+                                          owl:onProperty :oilCapacity ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ,
+                                        [ rdf:type owl:Restriction ;
+                                          owl:onProperty :transmissionType ;
+                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                          owl:onDataRange xsd:string
+                                        ] ;
+                        rdfs:label "Technical Specification"@en .
+
+
+###  http://www.semanticweb.org/model/electric/vehciles#Vehicle
+:Vehicle rdf:type owl:Class ;
+         rdfs:subClassOf [ rdf:type owl:Restriction ;
+                           owl:onProperty :hasMake ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onClass :Company
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :hasRegister ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onClass :Address
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :hasTechnicalSpecification ;
+                           owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onClass :TechnicalSpecification
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :Base_MSRP ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :Clean_Alternative_Fuel_Vehicle ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :DOL_Vehicle_ID ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :Electric_Utility ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :Legislative_District ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :VIN ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :Vehicle_Location ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :WAOFM_GIS_Legislative_District_Boundary ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :congressionalDistricts ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :counties ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :electricRange ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :model ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :modelYear ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :type ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty <http://www.semanticweb.org/model/electric/vehciles#2020_Census_Tract> ;
+                           owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                           owl:onDataRange xsd:string
+                         ] ;
+         rdfs:label "Vehicle"@en .
+
+
+###  Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi

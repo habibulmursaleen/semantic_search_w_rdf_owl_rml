@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <VIN>5YJ3E1EA8J</VIN>
+        <County>San Diego</County>
+        <City>Oceanside</City>
+        <State>CA</State>
+        <PostalCode>92051</PostalCode>
+        <ModelYear>2018</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>215</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict></LegislativeDistrict>
+        <DOLVehicleID>153998050</DOLVehicleID>
+        <VehicleLocation></VehicleLocation>
+        <ElectricUtility></ElectricUtility>
+        <_2020CensusTract>06073018509</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>3FA6P0PU7H</VIN>
+        <County>Sedgwick</County>
+        <City>Derby</City>
+        <State>KS</State>
+        <PostalCode>67037</PostalCode>
+        <ModelYear>2017</ModelYear>
+        <Make>FORD</Make>
+        <Model>FUSION</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Not eligible due to low battery range</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>21</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict></LegislativeDistrict>
+        <DOLVehicleID>138214331</DOLVehicleID>
+        <VehicleLocation>POINT (-97.27013 37.54531)</VehicleLocation>
+        <ElectricUtility></ElectricUtility>
+        <_2020CensusTract>20173009801</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4AZ0CP8D</VIN>
+        <County>Snohomish</County>
+        <City>Marysville</City>
+        <State>WA</State>
+        <PostalCode>98271</PostalCode>
+        <ModelYear>2013</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>75</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>38</LegislativeDistrict>
+        <DOLVehicleID>3129059</DOLVehicleID>
+        <VehicleLocation>POINT (-122.19388 48.15353)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061052805</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>WBY8P8C58K</VIN>
+        <County>Kitsap</County>
+        <City>Bremerton</City>
+        <State>WA</State>
+        <PostalCode>98337</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>BMW</Make>
+        <Model>I3</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>126</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>26</LegislativeDistrict>
+        <DOLVehicleID>166525635</DOLVehicleID>
+        <VehicleLocation>POINT (-122.62749 47.565)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035080500</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EA7K</VIN>
+        <County>Snohomish</County>
+        <City>Edmonds</City>
+        <State>WA</State>
+        <PostalCode>98026</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>220</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>32</LegislativeDistrict>
+        <DOLVehicleID>475248315</DOLVehicleID>
+        <VehicleLocation>POINT (-122.31768 47.87166)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061050800</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1G1FZ6S07L</VIN>
+        <County>Walla Walla</County>
+        <City>Walla Walla</City>
+        <State>WA</State>
+        <PostalCode>99362</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>CHEVROLET</Make>
+        <Model>BOLT EV</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>259</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>16</LegislativeDistrict>
+        <DOLVehicleID>150312991</DOLVehicleID>
+        <VehicleLocation>POINT (-118.34261 46.07068)</VehicleLocation>
+        <ElectricUtility>PACIFICORP</ElectricUtility>
+        <_2020CensusTract>53071920702</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>KNDCC3LG1L</VIN>
+        <County>Snohomish</County>
+        <City>Everett</City>
+        <State>WA</State>
+        <PostalCode>98204</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>KIA</Make>
+        <Model>NIRO</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>239</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>21</LegislativeDistrict>
+        <DOLVehicleID>152471728</DOLVehicleID>
+        <VehicleLocation>POINT (-122.25527 47.90456)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061041905</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4AZ0CP5D</VIN>
+        <County>Island</County>
+        <City>Oak Harbor</City>
+        <State>WA</State>
+        <PostalCode>98277</PostalCode>
+        <ModelYear>2013</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>75</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>10</LegislativeDistrict>
+        <DOLVehicleID>234850367</DOLVehicleID>
+        <VehicleLocation>POINT (-122.64682 48.29077)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53029970300</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EA1L</VIN>
+        <County>Snohomish</County>
+        <City>Bothell</City>
+        <State>WA</State>
+        <PostalCode>98021</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>266</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>1</LegislativeDistrict>
+        <DOLVehicleID>110771972</DOLVehicleID>
+        <VehicleLocation>POINT (-122.18384 47.8031)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061051937</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EB8K</VIN>
+        <County>Thurston</County>
+        <City>Olympia</City>
+        <State>WA</State>
+        <PostalCode>98501</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>220</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>22</LegislativeDistrict>
+        <DOLVehicleID>477769939</DOLVehicleID>
+        <VehicleLocation>POINT (-122.89166 47.03956)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53067010700</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EA4J</VIN>
+        <County>Skagit</County>
+        <City>Anacortes</City>
+        <State>WA</State>
+        <PostalCode>98221</PostalCode>
+        <ModelYear>2018</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>215</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>10</LegislativeDistrict>
+        <DOLVehicleID>258609291</DOLVehicleID>
+        <VehicleLocation>POINT (-122.61214 48.51748)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53057940302</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EBXL</VIN>
+        <County>Snohomish</County>
+        <City>Bothell</City>
+        <State>WA</State>
+        <PostalCode>98012</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>322</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>21</LegislativeDistrict>
+        <DOLVehicleID>106295451</DOLVehicleID>
+        <VehicleLocation>POINT (-122.21061 47.83448)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061051927</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EA9J</VIN>
+        <County>King</County>
+        <City>Kent</City>
+        <State>WA</State>
+        <PostalCode>98031</PostalCode>
+        <ModelYear>2018</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>215</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>11</LegislativeDistrict>
+        <DOLVehicleID>186185814</DOLVehicleID>
+        <VehicleLocation>POINT (-122.17743 47.41185)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</ElectricUtility>
+        <_2020CensusTract>53033029306</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJSA1S29F</VIN>
+        <County>Snohomish</County>
+        <City>Bothell</City>
+        <State>WA</State>
+        <PostalCode>98021</PostalCode>
+        <ModelYear>2015</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL S</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>208</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>1</LegislativeDistrict>
+        <DOLVehicleID>199402794</DOLVehicleID>
+        <VehicleLocation>POINT (-122.18384 47.8031)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061051937</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EAXK</VIN>
+        <County>Thurston</County>
+        <City>Olympia</City>
+        <State>WA</State>
+        <PostalCode>98513</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>220</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>2</LegislativeDistrict>
+        <DOLVehicleID>329238430</DOLVehicleID>
+        <VehicleLocation>POINT (-122.80277 46.99409)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53067012320</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>KNAGV4LD3H</VIN>
+        <County>Kitsap</County>
+        <City>Bremerton</City>
+        <State>WA</State>
+        <PostalCode>98383</PostalCode>
+        <ModelYear>2017</ModelYear>
+        <Make>KIA</Make>
+        <Model>OPTIMA</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Not eligible due to low battery range</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>29</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>23</LegislativeDistrict>
+        <DOLVehicleID>314301186</DOLVehicleID>
+        <VehicleLocation>POINT (-122.69275 47.65171)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035091205</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>KNDJP3AE8H</VIN>
+        <County>Kitsap</County>
+        <City>Olalla</City>
+        <State>WA</State>
+        <PostalCode>98359</PostalCode>
+        <ModelYear>2017</ModelYear>
+        <Make>KIA</Make>
+        <Model>SOUL EV</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>93</ElectricRange>
+        <BaseMSRP>32250</BaseMSRP>
+        <LegislativeDistrict>26</LegislativeDistrict>
+        <DOLVehicleID>350084948</DOLVehicleID>
+        <VehicleLocation>POINT (-122.54729 47.42602)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035092803</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4AZ1CP8K</VIN>
+        <County>Snohomish</County>
+        <City>Woodway</City>
+        <State>WA</State>
+        <PostalCode>98020</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>150</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>32</LegislativeDistrict>
+        <DOLVehicleID>274983740</DOLVehicleID>
+        <VehicleLocation>POINT (-122.37689 47.81116)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061050600</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1FADP5CU1D</VIN>
+        <County>Snohomish</County>
+        <City>Bothell</City>
+        <State>WA</State>
+        <PostalCode>98021</PostalCode>
+        <ModelYear>2013</ModelYear>
+        <Make>FORD</Make>
+        <Model>C-MAX</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Not eligible due to low battery range</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>19</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>1</LegislativeDistrict>
+        <DOLVehicleID>302447554</DOLVehicleID>
+        <VehicleLocation>POINT (-122.18384 47.8031)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061051918</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>7SAYGDEE2N</VIN>
+        <County>Whitman</County>
+        <City>Pullman</City>
+        <State>WA</State>
+        <PostalCode>99163</PostalCode>
+        <ModelYear>2022</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL Y</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Eligibility unknown as battery range has not
+            been researched</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>0</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>9</LegislativeDistrict>
+        <DOLVehicleID>193579760</DOLVehicleID>
+        <VehicleLocation>POINT (-117.18147 46.73015)</VehicleLocation>
+        <ElectricUtility>AVISTA CORP</ElectricUtility>
+        <_2020CensusTract>53075000201</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4AZ1CP7J</VIN>
+        <County>Thurston</County>
+        <City>Tumwater</City>
+        <State>WA</State>
+        <PostalCode>98501</PostalCode>
+        <ModelYear>2018</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>151</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>35</LegislativeDistrict>
+        <DOLVehicleID>201185253</DOLVehicleID>
+        <VehicleLocation>POINT (-122.89166 47.03956)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53067011720</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>WAUUPBFF3G</VIN>
+        <County>Snohomish</County>
+        <City>Bothell</City>
+        <State>WA</State>
+        <PostalCode>98012</PostalCode>
+        <ModelYear>2016</ModelYear>
+        <Make>AUDI</Make>
+        <Model>A3</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Not eligible due to low battery range</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>16</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>1</LegislativeDistrict>
+        <DOLVehicleID>161824953</DOLVehicleID>
+        <VehicleLocation>POINT (-122.21061 47.83448)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061052107</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>KNDCC3LG7L</VIN>
+        <County>Thurston</County>
+        <City>Olympia</City>
+        <State>WA</State>
+        <PostalCode>98516</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>KIA</Make>
+        <Model>NIRO</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>239</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>2</LegislativeDistrict>
+        <DOLVehicleID>152584484</DOLVehicleID>
+        <VehicleLocation>POINT (-122.75379 47.06316)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53067012330</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EA0L</VIN>
+        <County>Snohomish</County>
+        <City>Monroe</City>
+        <State>WA</State>
+        <PostalCode>98272</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>266</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>39</LegislativeDistrict>
+        <DOLVehicleID>6094910</DOLVehicleID>
+        <VehicleLocation>POINT (-121.98087 47.8526)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061052208</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EB2J</VIN>
+        <County>Snohomish</County>
+        <City>Mill Creek</City>
+        <State>WA</State>
+        <PostalCode>98012</PostalCode>
+        <ModelYear>2018</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>215</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>44</LegislativeDistrict>
+        <DOLVehicleID>226080305</DOLVehicleID>
+        <VehicleLocation>POINT (-122.21061 47.83448)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061052006</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>WA1AAAGE9M</VIN>
+        <County>Kitsap</County>
+        <City>Port Orchard</City>
+        <State>WA</State>
+        <PostalCode>98367</PostalCode>
+        <ModelYear>2021</ModelYear>
+        <Make>AUDI</Make>
+        <Model>E-TRON</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>222</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>35</LegislativeDistrict>
+        <DOLVehicleID>156660507</DOLVehicleID>
+        <VehicleLocation>POINT (-122.65745 47.4916)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035092901</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EB7K</VIN>
+        <County>Thurston</County>
+        <City>Yelm</City>
+        <State>WA</State>
+        <PostalCode>98597</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>220</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>2</LegislativeDistrict>
+        <DOLVehicleID>224725315</DOLVehicleID>
+        <VehicleLocation>POINT (-122.60735 46.94239)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53067012532</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EB4K</VIN>
+        <County>Kitsap</County>
+        <City>Poulsbo</City>
+        <State>WA</State>
+        <PostalCode>98370</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>220</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>23</LegislativeDistrict>
+        <DOLVehicleID>4664166</DOLVehicleID>
+        <VehicleLocation>POINT (-122.64681 47.73689)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035090502</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1G1RC6E4XF</VIN>
+        <County>Yakima</County>
+        <City>Yakima</City>
+        <State>WA</State>
+        <PostalCode>98901</PostalCode>
+        <ModelYear>2015</ModelYear>
+        <Make>CHEVROLET</Make>
+        <Model>VOLT</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>38</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>13</LegislativeDistrict>
+        <DOLVehicleID>294955195</DOLVehicleID>
+        <VehicleLocation>POINT (-120.50721 46.60448)</VehicleLocation>
+        <ElectricUtility>PACIFICORP</ElectricUtility>
+        <_2020CensusTract>53077001701</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4AZ0CP4E</VIN>
+        <County>Island</County>
+        <City>Oak Harbor</City>
+        <State>WA</State>
+        <PostalCode>98277</PostalCode>
+        <ModelYear>2014</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>84</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>10</LegislativeDistrict>
+        <DOLVehicleID>124224859</DOLVehicleID>
+        <VehicleLocation>POINT (-122.64682 48.29077)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53029970401</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EB3K</VIN>
+        <County>Yakima</County>
+        <City>Yakima</City>
+        <State>WA</State>
+        <PostalCode>98908</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>220</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>14</LegislativeDistrict>
+        <DOLVehicleID>292800504</DOLVehicleID>
+        <VehicleLocation>POINT (-120.56916 46.58514)</VehicleLocation>
+        <ElectricUtility>PACIFICORP</ElectricUtility>
+        <_2020CensusTract>53077002900</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJYGDEE2L</VIN>
+        <County>Snohomish</County>
+        <City>Edmonds</City>
+        <State>WA</State>
+        <PostalCode>98026</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL Y</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>291</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>21</LegislativeDistrict>
+        <DOLVehicleID>109766555</DOLVehicleID>
+        <VehicleLocation>POINT (-122.31768 47.87166)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061050200</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EB5J</VIN>
+        <County>Thurston</County>
+        <City>Olympia</City>
+        <State>WA</State>
+        <PostalCode>98506</PostalCode>
+        <ModelYear>2018</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>215</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>22</LegislativeDistrict>
+        <DOLVehicleID>107117692</DOLVehicleID>
+        <VehicleLocation>POINT (-122.87741 47.05997)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53067010200</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1G1RD6E43C</VIN>
+        <County>Snohomish</County>
+        <City>Monroe</City>
+        <State>WA</State>
+        <PostalCode>98272</PostalCode>
+        <ModelYear>2012</ModelYear>
+        <Make>CHEVROLET</Make>
+        <Model>VOLT</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>35</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>39</LegislativeDistrict>
+        <DOLVehicleID>126384212</DOLVehicleID>
+        <VehicleLocation>POINT (-121.98087 47.8526)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061052208</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4BZ0CP6H</VIN>
+        <County>King</County>
+        <City>Seattle</City>
+        <State>WA</State>
+        <PostalCode>98118</PostalCode>
+        <ModelYear>2017</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>107</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>37</LegislativeDistrict>
+        <DOLVehicleID>106876997</DOLVehicleID>
+        <VehicleLocation>POINT (-122.2668 47.55115)</VehicleLocation>
+        <ElectricUtility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</ElectricUtility>
+        <_2020CensusTract>53033011001</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1G1RD6S58J</VIN>
+        <County>Kitsap</County>
+        <City>Bremerton</City>
+        <State>WA</State>
+        <PostalCode>98312</PostalCode>
+        <ModelYear>2018</ModelYear>
+        <Make>CHEVROLET</Make>
+        <Model>VOLT</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>53</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>35</LegislativeDistrict>
+        <DOLVehicleID>333120707</DOLVehicleID>
+        <VehicleLocation>POINT (-122.66122 47.56573)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035080900</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>JN1AZ0CP6B</VIN>
+        <County>Walla Walla</County>
+        <City>Walla Walla</City>
+        <State>WA</State>
+        <PostalCode>99362</PostalCode>
+        <ModelYear>2011</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>73</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>16</LegislativeDistrict>
+        <DOLVehicleID>208059442</DOLVehicleID>
+        <VehicleLocation>POINT (-118.34261 46.07068)</VehicleLocation>
+        <ElectricUtility>PACIFICORP</ElectricUtility>
+        <_2020CensusTract>53071920702</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4AZ0CP3F</VIN>
+        <County>Kitsap</County>
+        <City>Kingston</City>
+        <State>WA</State>
+        <PostalCode>98346</PostalCode>
+        <ModelYear>2015</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>84</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>23</LegislativeDistrict>
+        <DOLVehicleID>115797398</DOLVehicleID>
+        <VehicleLocation>POINT (-122.4977 47.79802)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035090102</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>JTDKN3DP5C</VIN>
+        <County>Kitsap</County>
+        <City>Bremerton</City>
+        <State>WA</State>
+        <PostalCode>98312</PostalCode>
+        <ModelYear>2012</ModelYear>
+        <Make>TOYOTA</Make>
+        <Model>PRIUS PLUG-IN</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Not eligible due to low battery range</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>6</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>35</LegislativeDistrict>
+        <DOLVehicleID>140080146</DOLVehicleID>
+        <VehicleLocation>POINT (-122.66122 47.56573)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035080700</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>JTDKAMFP0M</VIN>
+        <County>Yakima</County>
+        <City>Yakima</City>
+        <State>WA</State>
+        <PostalCode>98902</PostalCode>
+        <ModelYear>2021</ModelYear>
+        <Make>TOYOTA</Make>
+        <Model>PRIUS PRIME</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Not eligible due to low battery range</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>25</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>14</LegislativeDistrict>
+        <DOLVehicleID>144884302</DOLVehicleID>
+        <VehicleLocation>POINT (-120.52301 46.60138)</VehicleLocation>
+        <ElectricUtility>PACIFICORP</ElectricUtility>
+        <_2020CensusTract>53077000302</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4AZ1CP4L</VIN>
+        <County>Thurston</County>
+        <City>Olympia</City>
+        <State>WA</State>
+        <PostalCode>98501</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>149</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>22</LegislativeDistrict>
+        <DOLVehicleID>124333275</DOLVehicleID>
+        <VehicleLocation>POINT (-122.89166 47.03956)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53067010700</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>KM8K23AG4L</VIN>
+        <County>Island</County>
+        <City>Langley</City>
+        <State>WA</State>
+        <PostalCode>98260</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>HYUNDAI</Make>
+        <Model>KONA</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>258</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>10</LegislativeDistrict>
+        <DOLVehicleID>142045634</DOLVehicleID>
+        <VehicleLocation>POINT (-122.40618 48.0399)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53029971900</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4AZ1CP3J</VIN>
+        <County>Thurston</County>
+        <City>Olympia</City>
+        <State>WA</State>
+        <PostalCode>98501</PostalCode>
+        <ModelYear>2018</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>151</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>22</LegislativeDistrict>
+        <DOLVehicleID>474204888</DOLVehicleID>
+        <VehicleLocation>POINT (-122.89166 47.03956)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53067010400</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4BZ0CP7G</VIN>
+        <County>Skagit</County>
+        <City>Bow</City>
+        <State>WA</State>
+        <PostalCode>98232</PostalCode>
+        <ModelYear>2016</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>84</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>40</LegislativeDistrict>
+        <DOLVehicleID>250052960</DOLVehicleID>
+        <VehicleLocation>POINT (-122.397 48.56045)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53057950802</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>1N4AZ0CP9D</VIN>
+        <County>Snohomish</County>
+        <City>Edmonds</City>
+        <State>WA</State>
+        <PostalCode>98020</PostalCode>
+        <ModelYear>2013</ModelYear>
+        <Make>NISSAN</Make>
+        <Model>LEAF</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>75</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>21</LegislativeDistrict>
+        <DOLVehicleID>146860493</DOLVehicleID>
+        <VehicleLocation>POINT (-122.37689 47.81116)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061050300</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>KM8K53AG1L</VIN>
+        <County>Kitsap</County>
+        <City>Bainbridge Island</City>
+        <State>WA</State>
+        <PostalCode>98110</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>HYUNDAI</Make>
+        <Model>KONA</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>258</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>23</LegislativeDistrict>
+        <DOLVehicleID>186861216</DOLVehicleID>
+        <VehicleLocation>POINT (-122.521 47.62728)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035091001</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJYGDEEXM</VIN>
+        <County>Stafford</County>
+        <City>Stafford</City>
+        <State>VA</State>
+        <PostalCode>22554</PostalCode>
+        <ModelYear>2021</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL Y</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Eligibility unknown as battery range has not
+            been researched</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>0</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict></LegislativeDistrict>
+        <DOLVehicleID>138122841</DOLVehicleID>
+        <VehicleLocation>POINT (-77.40815 38.42366)</VehicleLocation>
+        <ElectricUtility></ElectricUtility>
+        <_2020CensusTract>51179010210</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJXCDE26L</VIN>
+        <County>Chelan</County>
+        <City>Chelan</City>
+        <State>WA</State>
+        <PostalCode>98816</PostalCode>
+        <ModelYear>2020</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL X</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>289</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>12</LegislativeDistrict>
+        <DOLVehicleID>100649090</DOLVehicleID>
+        <VehicleLocation>POINT (-120.01454 47.83985)</VehicleLocation>
+        <ElectricUtility>PUD NO 1 OF CHELAN COUNTY</ElectricUtility>
+        <_2020CensusTract>53007960301</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EB8K</VIN>
+        <County>Thurston</County>
+        <City>Tumwater</City>
+        <State>WA</State>
+        <PostalCode>98501</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>220</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>22</LegislativeDistrict>
+        <DOLVehicleID>170512401</DOLVehicleID>
+        <VehicleLocation>POINT (-122.89166 47.03956)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53067010802</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>3FA6P0PU0F</VIN>
+        <County>Yakima</County>
+        <City>Yakima</City>
+        <State>WA</State>
+        <PostalCode>98908</PostalCode>
+        <ModelYear>2015</ModelYear>
+        <Make>FORD</Make>
+        <Model>FUSION</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Not eligible due to low battery range</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>19</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>14</LegislativeDistrict>
+        <DOLVehicleID>214566089</DOLVehicleID>
+        <VehicleLocation>POINT (-120.56916 46.58514)</VehicleLocation>
+        <ElectricUtility>PACIFICORP</ElectricUtility>
+        <_2020CensusTract>53077002801</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJSA1E27G</VIN>
+        <County>Kitsap</County>
+        <City>Bremerton</City>
+        <State>WA</State>
+        <PostalCode>98312</PostalCode>
+        <ModelYear>2016</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL S</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>210</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>35</LegislativeDistrict>
+        <DOLVehicleID>196728640</DOLVehicleID>
+        <VehicleLocation>POINT (-122.66122 47.56573)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53035091301</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>5YJ3E1EB8K</VIN>
+        <County>Snohomish</County>
+        <City>Edmonds</City>
+        <State>WA</State>
+        <PostalCode>98026</PostalCode>
+        <ModelYear>2019</ModelYear>
+        <Make>TESLA</Make>
+        <Model>MODEL 3</Model>
+        <ElectricVehicleType>Battery Electric Vehicle (BEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Clean Alternative Fuel Vehicle Eligible</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>220</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>21</LegislativeDistrict>
+        <DOLVehicleID>476555019</DOLVehicleID>
+        <VehicleLocation>POINT (-122.31768 47.87166)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061050300</_2020CensusTract>
+    </row>
+    <row>
+        <VIN>3FA6P0SU6G</VIN>
+        <County>Snohomish</County>
+        <City>Marysville</City>
+        <State>WA</State>
+        <PostalCode>98270</PostalCode>
+        <ModelYear>2016</ModelYear>
+        <Make>FORD</Make>
+        <Model>FUSION</Model>
+        <ElectricVehicleType>Plug-in Hybrid Electric Vehicle (PHEV)</ElectricVehicleType>
+        <CleanAlternativeFuelVehicleCAFVEligibility>Not eligible due to low battery range</CleanAlternativeFuelVehicleCAFVEligibility>
+        <ElectricRange>19</ElectricRange>
+        <BaseMSRP>0</BaseMSRP>
+        <LegislativeDistrict>44</LegislativeDistrict>
+        <DOLVehicleID>347907927</DOLVehicleID>
+        <VehicleLocation>POINT (-122.1769 48.06114)</VehicleLocation>
+        <ElectricUtility>PUGET SOUND ENERGY INC</ElectricUtility>
+        <_2020CensusTract>53061052708</_2020CensusTract>
+    </row>
+</root>
