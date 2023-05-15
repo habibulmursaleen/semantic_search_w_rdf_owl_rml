@@ -33,7 +33,10 @@ const InputSection = () => {
   return (
     // <!-- Input section -->
     <>
-      <div className="mt-[160px] mx-4 md:mt-[160px] relative">
+      <h1 className="title">
+        Welcome to Semantic Search in Heterogeneous Documents
+      </h1>
+      <div className="mt-[60px] mx-4 md:mt-[60px] relative">
         <div className="bg-white rounded-md max-w-6xl w-full mx-auto">
           <form className="first-hero inputform" onSubmit={handleSubmit}>
             {/* <!-- search --> */}

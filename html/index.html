@@ -7,23 +7,41 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Semantic Search</title>
   <link rel="stylesheet" href="./styles.css" />
+  <!-- include this in the head section of the HTML file -->
+
 </head>
+<script>
+  function sendSearchRequest(event) {
+    event.preventDefault(); // prevent the default form submission behavior
+    const sentence = document.getElementById("sentence").value;
+    const xhr = new XMLHttpRequest();
+    xhr.open("POST", "http://localhost:3000/search");
+    xhr.setRequestHeader("Content-Type", "application/json");
+    xhr.onload = function () {
+      if (xhr.status === 200) {
+        const responseObj = JSON.parse(xhr.response);
+        console.log(responseObj);// handle the response from the server
+      }
+    };
+    xhr.send(JSON.stringify({ sentence }));
+  }
+</script>
 
 <body>
   <section>
     <!-- Input section -->
     <div class="mt-[160px] mx-4 md:mt-[160px] relative">
       <div class="bg-white rounded-md max-w-6xl w-full mx-auto">
-        <form class="first-hero inputform">
+        <form class="first-hero inputform" action="#" method="POST" id="searchForm" onsubmit="sendSearchRequest(event)">
           <!-- search -->
-          <div class="search_input">
+          <div class=" search_input">
             <p>Search Here .. </p>
             <div class="flex flex-row">
-              <input class="outline-none px-2 py-2 w-full" name="from"required>  
-            </input>
+              <input class="outline-none px-2 py-2 w-full" name="sentence" required id="sentence">
+              </input>
             </div>
           </div>
-          <button class="searchButton" type="submit" >        
+          <button class="searchButton" type="submit">
             <span class="text-sm">Search</span>
           </button>
         </form>
@@ -43,10 +61,10 @@
             <th class="text-center">Model</th>
             <th class="text-center">ModelYear</th>
             <th class="text-center">Type</th>
-            <th class="text-center">Clean Alternative Fuel Vehicle</th>     
+            <th class="text-center">Clean Alternative Fuel Vehicle</th>
           </tr>
         </thead>
-        <tbody class="divide-y divide-gray-300/20" >
+        <tbody class="divide-y divide-gray-300/20">
           <!-- Row 1 -->
           <tr class=" text-black">
             <td class="px-6 py-4">
@@ -56,32 +74,32 @@
             </td>
             <td class="px-6 py-4">
               <div class="flex items-center space-x-3">
-                <p  > 6094910</p>
+                <p> 6094910</p>
               </div>
             </td>
             <td class="px-6 py-4">
-              <p  > 53061051927</p>
+              <p> 53061051927</p>
             </td>
             <td class="px-6 py-4 text-center">
-              <p  > 322</p>
+              <p> 322</p>
             </td>
             <td class="px-6 py-4 text-center">
-              <p  >TESLA</p>
+              <p>TESLA</p>
             </td>
             <td class="px-6 py-4 text-center">
-              <span  > MODEL 3 </span>
+              <span> MODEL 3 </span>
             </td>
             <td class="px-6 py-4">
               <div class="flex items-center space-x-3">
-                <p  > 2020</p>
+                <p> 2020</p>
               </div>
             </td>
             <td class="px-6 py-4">
-              <p  > Battery Electric Vehicle (BEV)</p>
-            </td> 
+              <p> Battery Electric Vehicle (BEV)</p>
+            </td>
             <td class="px-6 py-4">
-              <p  > Clean Alternative Fuel Vehicle Eligible</p>
-            </td>   
+              <p> Clean Alternative Fuel Vehicle Eligible</p>
+            </td>
           </tr>
           <!-- Row 2 -->
           <tr class=" text-black">
@@ -92,32 +110,32 @@
             </td>
             <td class="px-6 py-4">
               <div class="flex items-center space-x-3">
-                <p  > 6094910</p>
+                <p> 6094910</p>
               </div>
             </td>
             <td class="px-6 py-4">
-              <p  > 53061051927</p>
+              <p> 53061051927</p>
             </td>
             <td class="px-6 py-4 text-center">
-              <p  > 322</p>
+              <p> 322</p>
             </td>
             <td class="px-6 py-4 text-center">
-              <p  >TESLA</p>
+              <p>TESLA</p>
             </td>
             <td class="px-6 py-4 text-center">
-              <span  > MODEL 3 </span>
+              <span> MODEL 3 </span>
             </td>
             <td class="px-6 py-4">
               <div class="flex items-center space-x-3">
-                <p  > 2020</p>
+                <p> 2020</p>
               </div>
             </td>
             <td class="px-6 py-4">
-              <p  > Battery Electric Vehicle (BEV)</p>
-            </td> 
+              <p> Battery Electric Vehicle (BEV)</p>
+            </td>
             <td class="px-6 py-4">
-              <p  > Clean Alternative Fuel Vehicle Eligible</p>
-            </td>   
+              <p> Clean Alternative Fuel Vehicle Eligible</p>
+            </td>
           </tr>
           <!-- Row 3 -->
           <tr class=" text-black">
@@ -128,32 +146,32 @@
             </td>
             <td class="px-6 py-4">
               <div class="flex items-center space-x-3">
-                <p  > 6094910</p>
+                <p> 6094910</p>
               </div>
             </td>
             <td class="px-6 py-4">
-              <p  > 53061051927</p>
+              <p> 53061051927</p>
             </td>
             <td class="px-6 py-4 text-center">
-              <p  > 322</p>
+              <p> 322</p>
             </td>
             <td class="px-6 py-4 text-center">
-              <p  >TESLA</p>
+              <p>TESLA</p>
             </td>
             <td class="px-6 py-4 text-center">
-              <span  > MODEL 3 </span>
+              <span> MODEL 3 </span>
             </td>
             <td class="px-6 py-4">
               <div class="flex items-center space-x-3">
-                <p  > 2020</p>
+                <p> 2020</p>
               </div>
             </td>
             <td class="px-6 py-4">
-              <p  > Battery Electric Vehicle (BEV)</p>
-            </td> 
+              <p> Battery Electric Vehicle (BEV)</p>
+            </td>
             <td class="px-6 py-4">
-              <p  > Clean Alternative Fuel Vehicle Eligible</p>
-            </td>   
+              <p> Clean Alternative Fuel Vehicle Eligible</p>
+            </td>
           </tr>
         </tbody>
       </table>
