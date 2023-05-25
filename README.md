@@ -38,14 +38,14 @@ To run this project locally, these steps should be followed:
 
 #### Graph Database Setup
 
-Step 1: Install GraphDB from `https://graphdb.ontotext.com` from this website.
-Step 2: Run `http://localhost:7200` to access GraphDB.
-Step 3: In oprder to set a repository, Click `Steup > Repository > Create New Repository > GraphDB Repository`
-Step 4: Give RepositoryId as `customRepo`, and leave other options as default and Click `Create`
-Step 5: Select `customRepo` from the top-right corner dropdown menu
-Step 6: Click `Import` from the sidebar, and Click `Upload RDF Files` (RDF files can be found in `server/csv-to-rdf/convertedRDF`, and model in `server` folder)
-Step 7: Upload the files and click `Import`
-Step 8: Select `Name Graph` and prodive an IRI such as `http://www.semanticweb.org/model/electric/vehciles/`
+- Step 1: Install GraphDB from `https://graphdb.ontotext.com` from this website.
+- Step 2: Run `http://localhost:7200` to access GraphDB.
+- Step 3: In oprder to set a repository, Click `Steup > Repository > Create New Repository > GraphDB Repository`
+- Step 4: Give RepositoryId as `customRepo`, and leave other options as default and Click `Create`
+- Step 5: Select `customRepo` from the top-right corner dropdown menu
+- Step 6: Click `Import` from the sidebar, and Click `Upload RDF Files` (RDF files can be found in `server/csv-to-rdf/convertedRDF`, and model in `server` folder)
+- Step 7: Upload the files and click `Import`
+- Step 8: Select `Name Graph` and prodive an IRI such as `http://www.semanticweb.org/model/electric/vehciles/`
 
 #### Server Setup
 
