@@ -54,7 +54,7 @@ Server listens to the port `9000`
 ##### In terminal
 
 ```
-$ cd Server
+$ cd server
 $ cd csv-to-rdf
 $ npm install
 $ node demo.js
