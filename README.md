@@ -1,72 +1,72 @@
-# Getting Started with Create React App
+# Master's Thesis - Semantic Search on Equipment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of contents
 
-## Available Scripts
+- [Abstract](#Abstract)
+- [Technologies](#technologies)
+- [Setup](#setup)
 
-In the project directory, you can run:
+### Abstract
 
-### `npm start`
+The outcomes of this research have significant implications for enterprises seeking effective semantic search solutions considering information beyond what is explicitly shown in the raw documents from different inventories and formats and responding to users’ inquiries with relevant answers helping them to reduce their workload, time, and efforts. This master's thesis investigates semantic search on heterogeneous documents in an enterprise-level context by exploring two distinct approaches: RDF ontology with RML and entity extraction with vector embeddings. The thesis aims to evaluate the effectiveness of these approaches individually and identify opportunities for their combined application as future research scope.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The first experiment employs entity extraction techniques and vector embeddings with the support of Pinecone DB. By transforming documents into high-dimensional vectors, it captures semantic similarities, enabling similarity-based search. The experiment specifically targets CSV, Excel, and datasets, offering a focused investigation into the semantic search within specific formats. The second experiment focuses on RDF ontology with RML, utilizing graph-based modeling and SPARQL querying. It demonstrates the ability to capture complex semantic relationships, hierarchies, and ontological concepts, providing a powerful framework for semantic search. The experiment handles structured (CSV, Excel) and unstructured (JSON, XML, DOCX, PDF) documents, enabling effective retrieval of information from diverse file formats.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Through a thorough analysis and comparison of the results, the thesis concludes that the RDF ontology experiment outperforms the entity extraction experiment in terms of semantic search on heterogeneous documents in an enterprise-level setting. The RDF ontology approach exhibits superior semantic representation, advanced querying capabilities, and greater semantic expressiveness, enabling more accurate and meaningful search results. Building upon this conclusion, the thesis proposes future research on merging RDF ontology with RML and vector embeddings to leverage their respective strengths. This combined approach can hold promise for providing a more comprehensive and powerful semantic search solution, allowing for enhanced semantic representation, advanced querying mechanisms, and improved retrieval accuracy.
 
-### `npm test`
+Finally, this master's thesis contributes to the advancement of semantic search on heterogeneous documents in an enterprise-level context, offering valuable insights and paving the way for further research and development in this field
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Technologies
 
-### `npm run build`
+Project is created with:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ReactJS
+- NodeJS (Express.js)
+- GraphDB
+- Pinecone
+- Vector Embeddings
+- Entity Extractions
+- RDF
+- RML
+- NLP
+- SPARQL
+- Protege
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run this project locally, these steps should be followed:
 
-### `npm run eject`
+#### Graph Database Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Step 1: Install GraphDB from `https://graphdb.ontotext.com` from this website.
+Step 2: Run `http://localhost:7200` to access GraphDB.
+Step 3: In oprder to set a repository, Click `Steup > Repository > Create New Repository > GraphDB Repository`
+Step 4: Give RepositoryId as `customRepo`, and leave other options as default and Click `Create`
+Step 5: Select `customRepo` from the top-right corner dropdown menu
+Step 6: Click `Import` from the sidebar, and Click `Upload RDF Files` (RDF files can be found in `server/csv-to-rdf/convertedRDF`, and model in `server` folder)
+Step 7: Upload the files and click `Import`
+Step 8: Select `Name Graph` and prodive an IRI such as `http://www.semanticweb.org/model/electric/vehciles/`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Server Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Server listens to the port `9000`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+##### In terminal
 
-## Learn More
+```
+$ cd Server
+$ cd csv-to-rdf
+$ npm install
+$ node demo.js
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Frontend Setup
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Client listens to the port `3000`
 
-### Code Splitting
+##### In terminal
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# semantic_search_w_rdf_owl_rml
-# semantic_search_w_rdf_owl_rml
+```
+$ npm install
+$ npm start
+```
